@@ -33,7 +33,7 @@ class HomeScreen extends StatelessWidget {
                         Text(
                           'Space App',
                           style: TextStyle(
-                            fontSize: 42,
+                            fontSize: 38,
                             fontWeight: FontWeight.w900,
                             color: const Color(0xffffffff),
                           ),
